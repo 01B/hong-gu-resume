@@ -78,7 +78,7 @@
     - Kotlin / Spring / Go / AWS / Kubernates / ArgoCD/ Redis/ MySQL / SQS / SNS 
     - (sqs, sns 를 AWS 꺼 썼지? 앞에 AWS 쓰고 맨 뒤에 SQS, SNS 쓰니까 이상함.)
     - (붙이든지 / AWS SQS / AWS SNS 이렇게 쓰는게 나을 것 같은데.)
-    - (AWS 라고 쓴게 AWS 에서 뭘 쓴건지 모르겠음. 아님 AWS cloud base application 이라고 쓰든지.)
+    - (AWS 라고 쓴게 AWS 에서 뭘 쓴건지 모르겠음. 아님 AWS cloud based application 이라고 쓰든지.)
 - **Job Description**
     - 블록체인 거래소들의 API를 구현하고 공통화 하여
     
